@@ -1,4 +1,4 @@
-# STATS-Project
+# STATS 614.01-Project
 
 This is a Github Repository of my STATS Final Project - 
 UNDERGROUND AIR QUALITY USING MULTIPLE LINEAR REGRESSION AND ANOVA 
