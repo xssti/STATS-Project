@@ -17,4 +17,8 @@ Total Number of Observations - 120
 
 Type of statistical analysis performed on the dataset - Multiple Linear Regression and ANOVA
 
-Dataset is added in this repository
+Dataset is added in this repository - Babybirds-2.xlsx
+
+Final Report is also added in this repository
+
+The conclusions are made using JMP 
